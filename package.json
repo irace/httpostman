@@ -1,0 +1,9 @@
+{
+  "name": "httpostman",
+  "version": "0.1.0",
+  "dependencies": {
+    "express": "4.12.2",
+    "mandrill-api": "1.0.41",
+    "body-parser": "1.12.0"
+  }
+}
